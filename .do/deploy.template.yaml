@@ -1,0 +1,7 @@
+spec:
+ name: fastapi-streamtitle-extractor
+ services:
+ - name: web
+   git:
+     branch: main
+     repo_clone_url: https://github.com/jailsonsb2/fastapi-stream-title-bd
