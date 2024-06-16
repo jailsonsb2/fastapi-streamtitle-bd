@@ -70,7 +70,7 @@ async def root():
         "message": "Bem-vindo, estamos funcionando!",
         "instructions": "Para usar o endpoint /get_stream_title/, faça uma solicitação GET com os seguintes parâmetros:",
         "url": "A URL do stream MP3. Exemplo: 'http://exemplo.com/stream'",
-        "interval": "Opcional. O intervalo em bytes entre metadados. Padrão é 19200.",
+        "interval": "Opcional. O intervalo em bytes entre metadados. Padrão é 16000.",
         "example": "/get_stream_title/?url=http://exemplo.com/stream"
     }
 
