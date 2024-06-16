@@ -2,7 +2,7 @@
 
 🚀 with Deployment Boilerplate on Digital Ocean
 
-[![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/jailsonsb2/fastapi-stream-title-bd/tree/main)
+[![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/jailsonsb2/fastapi-streamtitle-bd/tree/main/)
 
 ## Overview
 
